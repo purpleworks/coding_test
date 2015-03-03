@@ -20,7 +20,7 @@ purpleworks의 채용은 다음과 같이 이루어집니다.
 ### 제출 방법
 
 - git을 이용하여 소스코드를 제출합니다.
-- 보고 있는 저장소( https://github.com/purpleworks/join.git )를 본인의 계정으로 fork합니다.
+- 보고 있는 저장소( https://github.com/purpleworks/coding_test.git )를 본인의 계정으로 fork합니다.
 - 문제별로 디렉토리를 만들고 해당하는 디렉토리에 각 문제의 코드를 작성합니다.
 - 전체 소스를 커밋하고 pull request 해주세요.
 - 소스는 오류없이 실행되어야 합니다.
