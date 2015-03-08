@@ -1,0 +1,16 @@
+﻿Build started 2015-03-04 오후 11:12:29.
+     1>Project "c:\Users\NT900X4D\documents\visual studio 2013\Projects\purpleworks_test1\purpleworks_test1\purpleworks_test1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt oil_price.c
+         oil_price.c
+     1>c:\users\nt900x4d\documents\visual studio 2013\projects\purpleworks_test1\purpleworks_test1\oil_price.c(11): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nt900x4d\documents\visual studio 2013\projects\purpleworks_test1\purpleworks_test1\oil_price.c(13): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\nt900x4d\documents\visual studio 2013\projects\purpleworks_test1\purpleworks_test1\oil_price.c(15): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\nt900x4d\documents\visual studio 2013\Projects\purpleworks_test1\Debug\purpleworks_test1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\nt900x4d\documents\visual studio 2013\Projects\purpleworks_test1\Debug\purpleworks_test1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\nt900x4d\documents\visual studio 2013\Projects\purpleworks_test1\Debug\purpleworks_test1.lib" /MACHINE:X86 Debug\oil_price.obj
+         purpleworks_test1.vcxproj -> c:\users\nt900x4d\documents\visual studio 2013\Projects\purpleworks_test1\Debug\purpleworks_test1.exe
+     1>Done Building Project "c:\Users\NT900X4D\documents\visual studio 2013\Projects\purpleworks_test1\purpleworks_test1\purpleworks_test1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.03
