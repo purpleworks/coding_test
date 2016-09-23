@@ -4,11 +4,11 @@ Frontend 분야에 지원하는 분을 위한 테스트문제입니다.
 
 하단의 요구사항을 읽고 실제로 동작하는 React 코드를 작성해주세요.
 
-`npm start`명령어를 통해 결과를 브라우져 확인할 수 있어야 하며, 필요한 경우 [create-react-app](https://github.com/facebookincubator/create-react-app) 툴을 이용하여 프로젝트를 시작하시면 됩니다.
+`npm start`명령어를 통해 결과를 브라우져에서 확인할 수 있어야 하며, 필요한 경우 [create-react-app](https://github.com/facebookincubator/create-react-app) 툴을 이용하여 프로젝트를 시작하시면 됩니다.
 
 ## 요구사항
 
-일반적인(https://www.airbnb.com/) 숙박 예약 시스템을 만드려고 합니다.
+일반적인 숙박 예약 시스템을 만드려고 합니다.
 
 예약 시스템중 달력을 구현해야 하며 요구사항은 다음과 같습니다.
 
