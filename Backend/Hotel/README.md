@@ -13,8 +13,8 @@ Backend 분야에 지원하는 분을 위한 Rails 테스트문제입니다.
 `Booking` 모델만 존재하며 다음과 같은 스키마로 구성되어 있습니다.
 
 - name: 예약명
-- start_time: 예약 시작일시
-- end_time: 예약 종료일시
+- start_time: 예약 시작일시(체크인)
+- end_time: 예약 종료일시(체크아웃)
 - status: 예약 상태
   - ready: 예약 신청
   - accepted: 예약 확정
